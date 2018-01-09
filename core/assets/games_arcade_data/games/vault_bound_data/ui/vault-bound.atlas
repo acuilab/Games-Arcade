@@ -1,0 +1,45 @@
+
+vault-bound.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 648, 11
+  size: 62, 800
+  orig: 62, 800
+  offset: 0, 0
+  index: -1
+button
+  rotate: false
+  xy: 648, 813
+  size: 206, 41
+  split: 14, 14, 14, 14
+  pad: 8, 8, 4, 4
+  orig: 206, 41
+  offset: 0, 0
+  index: -1
+button-pressed
+  rotate: false
+  xy: 1, 166
+  size: 206, 41
+  split: 14, 14, 14, 14
+  pad: 8, 8, 4, 4
+  orig: 206, 41
+  offset: 0, 0
+  index: -1
+font-export
+  rotate: false
+  xy: 1, 2
+  size: 160, 162
+  orig: 160, 162
+  offset: 0, 0
+  index: -1
+font-title-export
+  rotate: false
+  xy: 1, 209
+  size: 645, 645
+  orig: 645, 645
+  offset: 0, 0
+  index: -1
