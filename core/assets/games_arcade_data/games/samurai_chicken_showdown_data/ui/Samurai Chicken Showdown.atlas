@@ -1,0 +1,76 @@
+
+Samurai Chicken Showdown.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+button-down
+  rotate: false
+  xy: 648, 806
+  size: 162, 58
+  split: 26, 27, 0, 0
+  orig: 162, 58
+  offset: 0, 0
+  index: -1
+button-over
+  rotate: false
+  xy: 1, 399
+  size: 162, 58
+  split: 26, 27, 0, 0
+  orig: 162, 58
+  offset: 0, 0
+  index: -1
+button-up
+  rotate: false
+  xy: 261, 660
+  size: 162, 58
+  split: 26, 27, 0, 0
+  orig: 162, 58
+  offset: 0, 0
+  index: -1
+fence
+  rotate: false
+  xy: 261, 466
+  size: 56, 192
+  orig: 56, 192
+  offset: 0, 0
+  index: -1
+font-export
+  rotate: false
+  xy: 1, 459
+  size: 258, 259
+  orig: 258, 259
+  offset: 0, 0
+  index: -1
+slider
+  rotate: false
+  xy: 648, 751
+  size: 79, 53
+  split: 5, 5, 0, 0
+  pad: 0, 0, 0, 0
+  orig: 79, 53
+  offset: 0, 0
+  index: -1
+slider-knob
+  rotate: false
+  xy: 812, 812
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+title
+  rotate: false
+  xy: 1, 720
+  size: 645, 144
+  orig: 645, 144
+  offset: 0, 0
+  index: -1
+window
+  rotate: false
+  xy: 1, 286
+  size: 110, 111
+  split: 27, 28, 28, 29
+  pad: 11, 10, 8, 7
+  orig: 110, 111
+  offset: 0, 0
+  index: -1
