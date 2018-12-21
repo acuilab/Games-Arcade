@@ -1,9 +1,0 @@
-{
-  "classPath": [
-    "Bobby Bird.jar"
-  ],
-  "mainClass": "com.ray3k.bobby.desktop.DesktopLauncher",
-  "vmArgs": [
-    "-Xmx1G"
-  ]
-}
